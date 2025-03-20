@@ -1,0 +1,11 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../qnx.xml</include>
+	
+	<view name="system, basic, detailed">
+		<image name="logo">
+			<path>./system.svg</path>
+			<!-- Attribution: By Lexaloffle - This file was derived from: PICO-8 logo.png:(Based on PICO-8 logo used in Lexaloffle BBS), CC0, https://commons.wikimedia.org/w/index.php?curid=151394585-->
+		</image>
+	</view>
+</theme>

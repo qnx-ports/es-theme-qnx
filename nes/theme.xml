@@ -1,0 +1,11 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./../qnx.xml</include>
+	
+	<view name="system, basic, detailed">
+		<image name="logo">
+			<path>./system.svg</path>
+			<!-- Image Attribution: Takuyakoz, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons-->
+		</image>
+	</view>
+</theme>
