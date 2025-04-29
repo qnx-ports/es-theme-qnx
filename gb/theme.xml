@@ -4,7 +4,7 @@
 	
 	<view name="system, basic, detailed">
 		<image name="logo">
-			<path>./system.png</path>
+			<path>./system.svg</path>
 			<!-- Attribution: Used under the GPLv2 License, from OpenTTD and Wikimedia group. Sourced at https://commons.wikimedia.org/wiki/File:Openttdlogo.svg. -->
 		</image>
 	</view>
